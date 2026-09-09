@@ -10,7 +10,7 @@ DEFAULT_DESCRIPTIONS = {
     "CfPsf": "共焦点顕微鏡 PSF（点像強度分布関数）高速計算・生成ツール（アーカイブ）",
     "MFDcv": "多焦点画像 3D デコンボリューション処理ツール（CUDA GPU対応、アーカイブ）",
     "Unmix": "蛍光スペクトル画像アンミキシング（波長分離）処理ツール（アーカイブ）",
-    "SFIV": "単体画像ビューア WPF アプリケーション（ImageView / IVW）",
+    "SFIV": "単体画像ビューア WPF アプリケーション（ImageView / IVW、アーカイブ）",
     "MDIT": "MDIT 関連プロジェクト",
     "MDIT.Plugins": "MDIT プラグインライブラリ",
     "ImageView": "画像ビューア旧構成プロジェクト"
